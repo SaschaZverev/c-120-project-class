@@ -1,0 +1,23 @@
+.test_image_and_result
+{
+    background-color: lightgrey;
+    border-radius: 20px;
+    box-shadow: 10px 5px 5px grey;
+    width: 97%;
+    margin-bottom: 15px;
+    margin-top: 15px;
+
+}
+
+.result_style
+{
+    background-color: white;
+    border-radius: 25px;
+    font-size: 22px;
+}
+
+.test
+{
+    font-size: 20px;
+}
+
